@@ -1,1 +1,5 @@
 
+The challenge is asking you to use a relative path, which is a path based on your current directory, 
+rather than an absolute path, which starts from the root  
+instead of invoking paths like /challenge, you should use ./challenge or ..
+/challenge depending on your directory location
