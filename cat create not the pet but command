@@ -1,2 +1,0 @@
-The cat command is used to read and concatenate files, allowing you to view their contents in the terminal. 
-In this challenge, the flag has been copied to a file in your home directory, and you need to use cat to read it.
