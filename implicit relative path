@@ -1,5 +1,0 @@
-To run a program from the current directory in Linux, you must use ./ before the program name
-as Linux doesn't automatically search the current directory when you enter a naked command
-in this challenge, you'll need to run the run program from /challenge by typing ./run.
-
-
